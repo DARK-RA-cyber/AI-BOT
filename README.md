@@ -9,7 +9,7 @@
 - No Root
 - No Termux Knowlegde
 
-<p align="center"><img src="https://user-images.githubusercontent.com/88341460/189536974-e0965a1d-3cc8-4507-a4c8-77aaa778a5c1.gif"></p>
+<p align="center"><img src="https://github.com/DARK-RA-cyber/AI-BOT/blob/main/Screenshot_2025-05-22-22-10-30-119_org.telegram.messenges.jpg"></p>
 
 #### INSTALL TOOL ON TERMUX: ⬇️
 ```
