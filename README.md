@@ -9,7 +9,6 @@
 - No Root
 - No Termux Knowlegde
 
-<p align="center"><img src="https://github.com/DARK-RA-cyber/AI-BOT/blob/main/Screenshot_2025-05-22-22-10-30-119_org.telegram.messenges.jpg"></p>
 
 #### INSTALL TOOL ON TERMUX: ⬇️
 ```
@@ -34,6 +33,6 @@ python AI-BOT.py
 
 #### SCREENSHOT: ⬇️
 
-
+#![logo](https://github.com/DARK-RA-cyber/AI-BOT/blob/main/Screenshot_2025-05-22-22-10-30-119_org.telegram.messenges.jpg)
 <h3> follow me my Facebook  For Tool's Password</h3>
 <h5>id  Link➛ <a href="https://www.facebook.com/MUHAMMAD.RONI.AKONDO?mibextid=ZbWKwL">Click Here</a></h5>
