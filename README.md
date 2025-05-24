@@ -20,6 +20,7 @@ pkg install python2
 pip install mechanize
 pkg install git 
 pip install bs4
+pip install python-telegram-bot
 git clone https://github.com/DARK-RA-cyber/AI-BOT
 ► cd AI-BOT
 python AI-BOT.py
